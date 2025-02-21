@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="OPENAI_API_KEY")
 import time
 import json
 
